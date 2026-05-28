@@ -8,4 +8,4 @@ Hafta 2 - Ders 2: [Numpy-1](https://colab.research.google.com/drive/17N0vy5d-wNq
 Hafta 3 - Ders 1: [Numpy-Pandas](https://colab.research.google.com/drive/1s_8MqLjnvymQFK5mrMOiJ2azjvZDpj7_#scrollTo=HIWAFXYIyUJv)<br>
 Hafta 3 - Ödev: [AI-Studio-Uygulama-Ödevi](   ) <br>
 Hafta 3- Ders 2: [Pandas-devam](https://colab.research.google.com/drive/117FD3IO668JKy469xWGzzJ6gu-T-PGZk)<br>
-Hafta 3- Ders 2- NB-2:[Tips Veri Seti-devam](https://colab.research.google.com/drive/13Sb_ZxFSYiuqbOAUsbUFgWpQfkyzcMmV?usp=sharing)
+Hafta 3- Ders 2- NB-2:[Tips Veri Seti-devam](https://colab.research.google.com/drive/1h_EUkfjBiXRQROzZU4mcT9LrsyVwjhb9)
